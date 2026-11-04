@@ -1,0 +1,17 @@
+{
+  "name": "personal-portfolio",
+  "version": "1.0.0",
+  "description": "My personal portfolio website",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "portfolio",
+    "html",
+    "css",
+    "web-development"
+  ],
+  "author": "Shivani Priya KS",
+  "license": "ISC"
+}
